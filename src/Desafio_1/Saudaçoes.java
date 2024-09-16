@@ -6,7 +6,7 @@ public class Saudaçoes {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Bom dia");
-		
+		System.out.println("Boa tarde");
 
 	}
 
